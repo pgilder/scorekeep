@@ -1,0 +1,19 @@
+.menu-bar {
+    background: #dc5855;
+    color: #fff;
+    bottom: 0px;
+    position: absolute;
+    width: 100vw;
+}
+
+.menu-bar__menutitle {
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+
+
+.menu-icons {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
